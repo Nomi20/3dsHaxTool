@@ -2,7 +2,6 @@
 
 Version 2.0!!!
 -Update to B9S
--More Simple GUI
 -Smaller file size
 -You can now use 9.0-11.3U! (Sorry everyone who does not own a US 3ds! 2.1 will add all)
 
