@@ -7,3 +7,4 @@ Version 2.0!!!
 
 That is it for this update!
 Have a great day!
+Put the folder in the C Drive for it to work correctly! :)
